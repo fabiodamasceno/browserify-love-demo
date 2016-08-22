@@ -1,0 +1,25 @@
+{
+  "name": "learningbrowserify",
+  "version": "1.0.0",
+  "description": "A browserify using demo",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify index.js > main.js"
+  },
+  "keywords": [
+    "browserify",
+    "browserify",
+    "demo",
+    "test",
+    "browserify",
+    "modularizing"
+  ],
+  "author": "Fábio Damasceno",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.1.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1"
+  }
+}
