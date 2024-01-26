@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: fabiodamasceno/browserify-love-demo
 spec:
-  type: other
-  lifecycle: unknown
+  type: API
+  lifecycle: production
   owner: guests
