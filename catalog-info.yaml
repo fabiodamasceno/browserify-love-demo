@@ -16,6 +16,6 @@ metadata:
   annotations:
     github.com/project-slug: fabiodamasceno/browserify-love-demo
 spec:
-  type: API
+  type: website
   lifecycle: production
   owner: guests
