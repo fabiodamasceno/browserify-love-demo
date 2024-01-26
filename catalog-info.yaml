@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: browserify-love-demo-API
+  name: browserify-love-demo
   annotations:
     github.com/project-slug: fabiodamasceno/browserify-love-demo
 spec:
